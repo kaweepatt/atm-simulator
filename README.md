@@ -7,10 +7,10 @@
 1. Download /dist/atm-simulator.jar to your desirable directory
 
 ### Step to execute application
-1. Go to jar directory
+1. Go to dist directory
 2. Execute command java -jar atm-simulator.jar
 3. For Example
-    1. cd /usr/local/atm/atm-simulator
+    1. cd /usr/local/atm/atm-simulator/dist
     2. java -jar atm-simulator.jar
 
 ### Step to use application
