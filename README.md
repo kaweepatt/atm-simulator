@@ -4,7 +4,7 @@
 1. Java Runtime Environment must be installed.
 
 ### Step to install
-1. Download /dist/atm-simulator.jar to your desirable directory
+1. Download /dist/atm-simulator.jar to your desired directory
 
 ### Step to execute application
 1. Go to dist directory
